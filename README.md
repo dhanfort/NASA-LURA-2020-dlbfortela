@@ -2,5 +2,7 @@
 
 The Martian Dust Storm of June 2018:
 
+[![Watch the video]('https://mars.nasa.gov/embed/21914/')](https://youtu.be/vt5fpE0bzSY)
+
 <iframe src='https://mars.nasa.gov/embed/21914/' width='100%' height='400'  scrolling='no' frameborder='0'></iframe>
 
