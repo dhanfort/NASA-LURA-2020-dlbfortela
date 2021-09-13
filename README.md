@@ -1,5 +1,3 @@
-# NASA-LURA-2020-dlbfortela
-
 # Making NASA’s Open-Innovation Data More Machine-Learning Friendly: A Case for the MAVEN Datasets
 LURA Project 2020-2021
 LURA Project Title: "Making NASA's Open-Innovation Data More Machine-Learning Friendly: A Case for the MAVEN Datasets" 
