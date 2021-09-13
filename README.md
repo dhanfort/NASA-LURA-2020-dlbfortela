@@ -8,3 +8,6 @@ https://user-images.githubusercontent.com/65507260/123451838-7be62d00-d5a3-11eb-
 
 Source: NASA/JPL-Caltech/MSSS (URL:https://mars.nasa.gov/resources/21914/the-martian-dust-storm-of-june-2018/)
 
+The Jupyter Notebooks in this repo are also in Google Colab. Here is the URL for the Colab folder: https://drive.google.com/drive/folders/1lfcQKNKfUAySsQogdYvvmlZBsMaaETM0?usp=sharing
+
+
