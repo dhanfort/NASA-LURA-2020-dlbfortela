@@ -1,8 +1,10 @@
 # Making NASA’s Open-Innovation Data More Machine-Learning Friendly: A Case for the MAVEN Datasets
 LURA Project 2020-2021
 LURA Project Title: "Making NASA's Open-Innovation Data More Machine-Learning Friendly: A Case for the MAVEN Datasets" 
+
 This research grant was awarded by the Louisiana Space Grant Consortium (LaSPACE). URL: https://laspace.lsu.edu/about-us/. 
 Primary NASA Grant Number: 80NSSC20M0110.
+
 Project Principal Investigator.: Dr. Dhan Lord B. Fortela 
 Apprentice Student: Ashton C. Fremin 
 Department of Chemical Engineering, University of Louisiana at Lafayette, URL: https://chemical.louisiana.edu/
